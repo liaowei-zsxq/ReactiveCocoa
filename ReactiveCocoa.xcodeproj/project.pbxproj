@@ -2191,6 +2191,7 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				INFOPLIST_FILE = ReactiveCocoa/Info.plist;
+				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "$(SRCROOT)/ReactiveCocoa/include/module.modulemap";
 			};
 			name = Debug;
@@ -2202,6 +2203,7 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				INFOPLIST_FILE = ReactiveCocoa/Info.plist;
+				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "$(SRCROOT)/ReactiveCocoa/include/module.modulemap";
 			};
 			name = Test;
@@ -2213,6 +2215,7 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				INFOPLIST_FILE = ReactiveCocoa/Info.plist;
+				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "$(SRCROOT)/ReactiveCocoa/include/module.modulemap";
 			};
 			name = Release;
@@ -2224,6 +2227,7 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				INFOPLIST_FILE = ReactiveCocoa/Info.plist;
+				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "$(SRCROOT)/ReactiveCocoa/include/module.modulemap";
 			};
 			name = Profile;
@@ -2315,6 +2319,7 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				INFOPLIST_FILE = ReactiveMapKit/Info.plist;
+				MACH_O_TYPE = staticlib;
 				PRODUCT_BUNDLE_IDENTIFIER = org.reactivecocoa.ReactiveMapKit;
 				PRODUCT_NAME = ReactiveMapKit;
 			};
@@ -2327,6 +2332,7 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				INFOPLIST_FILE = ReactiveMapKit/Info.plist;
+				MACH_O_TYPE = staticlib;
 				PRODUCT_BUNDLE_IDENTIFIER = org.reactivecocoa.ReactiveMapKit;
 				PRODUCT_NAME = ReactiveMapKit;
 			};
@@ -2339,6 +2345,7 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				INFOPLIST_FILE = ReactiveMapKit/Info.plist;
+				MACH_O_TYPE = staticlib;
 				PRODUCT_BUNDLE_IDENTIFIER = org.reactivecocoa.ReactiveMapKit;
 				PRODUCT_NAME = ReactiveMapKit;
 			};
@@ -2351,6 +2358,7 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				INFOPLIST_FILE = ReactiveMapKit/Info.plist;
+				MACH_O_TYPE = staticlib;
 				PRODUCT_BUNDLE_IDENTIFIER = org.reactivecocoa.ReactiveMapKit;
 				PRODUCT_NAME = ReactiveMapKit;
 			};
@@ -2363,6 +2371,7 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				INFOPLIST_FILE = ReactiveMapKit/Info.plist;
+				MACH_O_TYPE = staticlib;
 				PRODUCT_BUNDLE_IDENTIFIER = org.reactivecocoa.ReactiveMapKit;
 				PRODUCT_NAME = ReactiveMapKit;
 			};
@@ -2375,6 +2384,7 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				INFOPLIST_FILE = ReactiveMapKit/Info.plist;
+				MACH_O_TYPE = staticlib;
 				PRODUCT_BUNDLE_IDENTIFIER = org.reactivecocoa.ReactiveMapKit;
 				PRODUCT_NAME = ReactiveMapKit;
 			};
@@ -2387,6 +2397,7 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				INFOPLIST_FILE = ReactiveMapKit/Info.plist;
+				MACH_O_TYPE = staticlib;
 				PRODUCT_BUNDLE_IDENTIFIER = org.reactivecocoa.ReactiveMapKit;
 				PRODUCT_NAME = ReactiveMapKit;
 			};
@@ -2399,6 +2410,7 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				INFOPLIST_FILE = ReactiveMapKit/Info.plist;
+				MACH_O_TYPE = staticlib;
 				PRODUCT_BUNDLE_IDENTIFIER = org.reactivecocoa.ReactiveMapKit;
 				PRODUCT_NAME = ReactiveMapKit;
 			};
@@ -2495,6 +2507,7 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				INFOPLIST_FILE = ReactiveMapKit/Info.plist;
+				MACH_O_TYPE = staticlib;
 				PRODUCT_BUNDLE_IDENTIFIER = org.reactivecocoa.ReactiveMapKit;
 				PRODUCT_NAME = ReactiveMapKit;
 				SUPPORTS_MACCATALYST = YES;
@@ -2508,6 +2521,7 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				INFOPLIST_FILE = ReactiveMapKit/Info.plist;
+				MACH_O_TYPE = staticlib;
 				PRODUCT_BUNDLE_IDENTIFIER = org.reactivecocoa.ReactiveMapKit;
 				PRODUCT_NAME = ReactiveMapKit;
 				SUPPORTS_MACCATALYST = YES;
@@ -2521,6 +2535,7 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				INFOPLIST_FILE = ReactiveMapKit/Info.plist;
+				MACH_O_TYPE = staticlib;
 				PRODUCT_BUNDLE_IDENTIFIER = org.reactivecocoa.ReactiveMapKit;
 				PRODUCT_NAME = ReactiveMapKit;
 				SUPPORTS_MACCATALYST = YES;
@@ -2534,6 +2549,7 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				INFOPLIST_FILE = ReactiveMapKit/Info.plist;
+				MACH_O_TYPE = staticlib;
 				PRODUCT_BUNDLE_IDENTIFIER = org.reactivecocoa.ReactiveMapKit;
 				PRODUCT_NAME = ReactiveMapKit;
 				SUPPORTS_MACCATALYST = YES;
@@ -2547,6 +2563,7 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				INFOPLIST_FILE = ReactiveCocoa/Info.plist;
+				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "$(SRCROOT)/ReactiveCocoa/include/module.modulemap";
 			};
 			name = Debug;
@@ -2558,6 +2575,7 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				INFOPLIST_FILE = ReactiveCocoa/Info.plist;
+				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "$(SRCROOT)/ReactiveCocoa/include/module.modulemap";
 			};
 			name = Test;
@@ -2569,6 +2587,7 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				INFOPLIST_FILE = ReactiveCocoa/Info.plist;
+				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "$(SRCROOT)/ReactiveCocoa/include/module.modulemap";
 			};
 			name = Release;
@@ -2580,6 +2599,7 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				INFOPLIST_FILE = ReactiveCocoa/Info.plist;
+				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "$(SRCROOT)/ReactiveCocoa/include/module.modulemap";
 			};
 			name = Profile;
@@ -2649,6 +2669,7 @@
 				DYLIB_CURRENT_VERSION = 1;
 				FRAMEWORK_VERSION = A;
 				INFOPLIST_FILE = ReactiveCocoa/Info.plist;
+				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "$(SRCROOT)/ReactiveCocoa/include/module.modulemap";
 				SUPPORTS_MACCATALYST = YES;
 			};
@@ -2662,6 +2683,7 @@
 				DYLIB_CURRENT_VERSION = 1;
 				FRAMEWORK_VERSION = A;
 				INFOPLIST_FILE = ReactiveCocoa/Info.plist;
+				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "$(SRCROOT)/ReactiveCocoa/include/module.modulemap";
 				SUPPORTS_MACCATALYST = YES;
 			};
@@ -2697,6 +2719,7 @@
 				DYLIB_CURRENT_VERSION = 1;
 				INFOPLIST_FILE = ReactiveCocoa/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "$(SRCROOT)/ReactiveCocoa/include/module.modulemap";
 			};
 			name = Debug;
@@ -2709,6 +2732,7 @@
 				DYLIB_CURRENT_VERSION = 1;
 				INFOPLIST_FILE = ReactiveCocoa/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "$(SRCROOT)/ReactiveCocoa/include/module.modulemap";
 			};
 			name = Release;
@@ -2768,6 +2792,7 @@
 				DYLIB_CURRENT_VERSION = 1;
 				FRAMEWORK_VERSION = A;
 				INFOPLIST_FILE = ReactiveCocoa/Info.plist;
+				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "$(SRCROOT)/ReactiveCocoa/include/module.modulemap";
 				SUPPORTS_MACCATALYST = YES;
 			};
@@ -2792,6 +2817,7 @@
 				DYLIB_CURRENT_VERSION = 1;
 				INFOPLIST_FILE = ReactiveCocoa/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "$(SRCROOT)/ReactiveCocoa/include/module.modulemap";
 			};
 			name = Profile;
@@ -2841,6 +2867,7 @@
 				DYLIB_CURRENT_VERSION = 1;
 				FRAMEWORK_VERSION = A;
 				INFOPLIST_FILE = ReactiveCocoa/Info.plist;
+				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "$(SRCROOT)/ReactiveCocoa/include/module.modulemap";
 				SUPPORTS_MACCATALYST = YES;
 			};
@@ -2865,6 +2892,7 @@
 				DYLIB_CURRENT_VERSION = 1;
 				INFOPLIST_FILE = ReactiveCocoa/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "$(SRCROOT)/ReactiveCocoa/include/module.modulemap";
 			};
 			name = Test;
